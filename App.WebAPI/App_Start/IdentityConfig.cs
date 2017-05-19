@@ -1,4 +1,12 @@
-﻿using System.Threading.Tasks;
+﻿/// <summary>
+/// WebAPI-Tutorial
+/// https://github.com/ajmaltahir/WebAPI-Tutorial
+/// 
+/// Created by Ajmal Tahir
+/// Copyright © 2017 Ajmal Tahir. All rights reserved.
+/// </summary>
+
+using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;

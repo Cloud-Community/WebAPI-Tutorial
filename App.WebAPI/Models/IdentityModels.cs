@@ -1,4 +1,12 @@
-﻿using System.Security.Claims;
+﻿/// <summary>
+/// WebAPI-Tutorial
+/// https://github.com/ajmaltahir/WebAPI-Tutorial
+/// 
+/// Created by Ajmal Tahir
+/// Copyright © 2017 Ajmal Tahir. All rights reserved.
+/// </summary>
+
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
